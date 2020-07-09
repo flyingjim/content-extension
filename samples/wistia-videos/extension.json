@@ -1,0 +1,16 @@
+{
+  "name": "Wistia Videos",
+  "id": "wistia-videos",
+  "srcdoc": "./app.html",
+  "fieldTypes": ["Object"],
+  "parameters": {
+    "installation": [
+      {
+        "id": "serviceUri",
+        "type": "Symbol",
+        "name": "Lambda Function URL",
+        "required": true
+      }
+    ]
+  }
+}

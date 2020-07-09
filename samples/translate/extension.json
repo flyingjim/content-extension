@@ -1,0 +1,6 @@
+{
+  "id": "translate",
+  "name": "Translate Widget",
+  "srcdoc": "index.html",
+  "fieldTypes": ["Symbol", "Text"]
+}
